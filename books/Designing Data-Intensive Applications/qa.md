@@ -1,6 +1,6 @@
 # Questions & Answers
 
-Below are two sets of questions and answers for *Designing Data-Intensive Applications* by *Martin Kleppmann*. The first set tests the understanding of the book’s core principles beyond just definitions. The second set focuses requires deeper reasoning, nuanced trade-offs and the ability to apply concepts in complex and real-world scenarios.
+Below are two sets of questions and answers for *Designing Data-Intensive Applications* by *Martin Kleppmann*. The first set tests the understanding of the book’s core principles beyond just definitions. The second set requires deeper reasoning and the ability to apply concepts in complex and real-world scenarios.
 
 ## Medium-Difficulty
 
